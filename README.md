@@ -2,7 +2,7 @@
   
 <img src="https://cdn.modeminc.com/mguard/MGuardBanner.png" alt="MGuard Banner" width="800"/>
 
-*Your network sees everything.*
+*MGaurd*
 
 </div>
 
