@@ -66,11 +66,11 @@ MGuard_Agent.exe
 
 Scores are computed from:
 
-- **GeoIP Risk Weight** — source country vs. ModemINC's regional threat index
-- **ASN Reputation** — cross-referenced against bulletproof hosters, VPN exits, Tor exits
-- **Port Behavior Analysis** — scan velocity, port patterns, connection timing
-- **Behavioral ML Baseline** — per-device normal model built over 72 hours; deviations raise score
-- **Live Feed Correlation** — hourly sync with abuse.ch, Emerging Threats, Spamhaus, and the Modeminc global sensor network
+- **GeoIP Risk Weight** - source country vs. ModemINC's regional threat index
+- **ASN Reputation** - cross-referenced against bulletproof hosters, VPN exits, Tor exits
+- **Port Behavior Analysis** - scan velocity, port patterns, connection timing
+- **Behavioral ML Baseline** - per-device normal model built over 72 hours; deviations raise score
+- **Live Feed Correlation** - hourly sync with abuse.ch, Emerging Threats, Spamhaus, and the Modeminc global sensor network
 
 ---
 
